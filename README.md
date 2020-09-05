@@ -1,3 +1,18 @@
+<p align="center">
+  <a href="https://space.bilibili.com/331114924"><img src="https://img.shields.io/badge/bilibili-哔哩哔哩-critical" alt="投稿"></a>
+  <a href="https://juejin.im/user/1266229795106455"><img src="https://img.shields.io/badge/juejin-掘金-blue.svg" alt="公众号"></a>
+  <a href="https://www.zhihu.com/people/a-bu-a-bu-14-64/posts"><img src="https://img.shields.io/badge/zhihu-知乎-informational" alt="投稿"></a>
+  <a href="https://blog.csdn.net/weixin_49163826"><img src="https://img.shields.io/badge/csdn-CSDN-red.svg" alt="投稿"></a>
+  <a href="https://segmentfault.com/u/abuabu/articles"><img src="https://img.shields.io/badge/SegmentFault-思否-green" alt="投稿"></a>
+  <a href="https://www.cnblogs.com/it-abu/"><img src="https://img.shields.io/badge/cnblogs-博客园-important.svg" alt="投稿"></a>
+</p>
+
+<p align="center">
+    <a href="https://github.com/it-abu/mianshi/edit/master/README.md" target="_blank">
+        <img src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/03fb2405e24f4970a5559833173ead6b~tplv-k3u1fbpfcp-zoom-1.image?imageslim" width=""/>
+    </a>
+</p>
+
 # 目录
 
 * **面试题系列：**
@@ -8,15 +23,15 @@
 
   * [面试官必问的50道 Laravel 面试题和答案](https://zhuanlan.zhihu.com/p/196780449)
 
- * **面试技巧：**
+* **面试技巧：**
 
-   *  简历怎么写？
+  * 简历怎么写？
 
-   * 简历这样写，面试官都看呆了！
+  * 简历这样写，面试官都看呆了！
 
-   * 自我介绍
+  * 自我介绍
 
-   * 互联网公司面试流程 注意事项 加分店 防骗指南
+  * 互联网公司面试流程 注意事项 加分店 防骗指南
 
 *  **其他：**
 
@@ -108,7 +123,7 @@
 * **Docker系列：**
 
    * [三个技巧帮助Docker镜像瘦](https://zhuanlan.zhihu.com/p/165946949)
-	 
+
 * **福利**
 
    * PHP学习路线
@@ -118,3 +133,13 @@
    * 面试资料
 
    * 电子书
+
+技术交流群：[953224940](https://jq.qq.com/?_wv=1027&k=VlP8r6aS)
+
+# 祝福
+
+希望大家都能找到心仪的工作，学习是一条时而郁郁寡欢，时而开环大笑的路，加油。
+
+如果你通过努力成功进入到了心仪的公司，一定不要懈怠放松，职场成长和新技术学习一样，不进则退。
+
+阿布在工作中发现我身边的人真的就是实力越强的越努力，**最高级的自律，享受孤独**。
