@@ -22,12 +22,15 @@
   * [2020最新PHP面试题和进阶资料](https://zhuanlan.zhihu.com/p/157624864)
 
   * [面试官必问的50道 Laravel 面试题和答案](https://zhuanlan.zhihu.com/p/196780449)
+  
+  * [一份还热乎的PHP大厂内部面经（已拿Offer）！附答案！！！](https://zhuanlan.zhihu.com/p/222920610)
+  
 
 * **面试技巧：**
 
   * 简历怎么写？
 
-  * 简历这样写，面试官都看呆了！
+  * [简历这样写，面试官都看呆了！](https://zhuanlan.zhihu.com/p/222472844)
 
   * 自我介绍
 
